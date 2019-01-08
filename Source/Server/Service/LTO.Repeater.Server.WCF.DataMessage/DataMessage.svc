@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="LTO.Repeater.Server.WCF.DataMessage.DataMessage" CodeBehind="DataMessage.svc.cs" %>
